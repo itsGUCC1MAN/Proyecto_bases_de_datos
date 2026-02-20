@@ -1,7 +1,7 @@
 
 # Proyecto Bases de Datos
 ## Descripción General
-El conjunto de datos consta de 45,466 películas estrenadas hasta julio de 2017. Fue recolectado por Rounak Banik utilizando la API de TMDB y datos de GroupLens.
+El conjunto de datos consta de 45,466 películas estrenadas hasta julio de 2017. Fue recolectado por Rounak Banik utilizando la API de TMDB y datos de GroupLens. Su propósito inicial era una base para poder narrar la historia del cine y facilitar el desarrollo de sistemas de recomendación. No se ha actualizado desde el día de su publicación.
 
 Origen: Kaggle (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
