@@ -4,7 +4,7 @@
 - Alejandro Ozymandias Cepeda Beltran, CU:219451 git: https://github.com/ozycepeda
 - Renata Pasalagua Payá, CU:218650 git: https://github.com/renatapasalagua 
 - Mariana Rendón Monroy, CU:217225 git: https://github.com/marianarendon2006
-- Nicolás Burgueño Rodríguez, CU:218065 git: https://github.com/itsGUCC1MAN
+- Nicolás Burgueño Rodríguez, CU:218065 git: https://github.com/nicoburgueno
 - Gerardo Villanueva Vargas, CU:219890 git: https://github.com/geraVillV
 - Paula Fernández Gregorio, CU:218821 git: https://github.com/paulafernandezgregorio
 
